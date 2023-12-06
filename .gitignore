@@ -53,6 +53,7 @@ local.properties
 # Intellij
 ######################
 .idea/
+src/main/resources/application.properties
 *.iml
 *.iws
 *.ipr
